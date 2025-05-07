@@ -4,7 +4,7 @@ import MainLayout from './Layouts/Mainlayout'
 
 // Pages
 import Home from './Pages/Home'
-import KompaniyaHaqida from './pages/KompaniyaHaqida'
+import KompaniyaHaqida from './pages/KompaniyaHaqida.jsx'
 import Xizmatlar from './Pages/Xizmatlar'
 import Mahsulotlar from './Pages/Mahsulotlar'
 import NarxlarRoyhati1 from './Pages/NarxlarRoyhati1'
