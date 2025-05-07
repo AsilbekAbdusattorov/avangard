@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="84" viewBox="0 0 96 84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Hospital.svg" class="cls-1" d="M574,718v38h-4V718H556v38h-4V696H540v-4h18v4h-2v8h12v10h8v4h-2Zm-10-10h-8v6h8v-6Zm-30-12H522v-6h-6V678h6v-6h12v6h6v12h-6v6Zm2-10v-4h-6v-6h-4v6h-6v4h6v6h4v-6h6Zm-20,10H504v60h-4V718H486v38h-4V718h-2v-4h8V704h12v-8h-2v-4h18v4Zm-16,12h-8v6h8v-6Zm-4,18h-6v-4h6v4Zm0,8h-6v-4h6v4Zm0,8h-6v-4h6v4Zm0,8h-6v-4h6v4Zm30-38h-4v-4h-6v4h-4v-8h14v8Zm0,14h-4v-4h-6v4h-4v-8h14v8Zm0,14h-4v-4h-6v4h-4v-8h14v8Zm10,16h-4v-6h-8v6h-4V746h16v10Zm8-30h-4v-4h-6v4h-4v-8h14v8Zm-14-14v-8h14v8h-4v-4h-6v4h-4Zm4,28h-4v-8h14v8h-4v-4h-6v4Zm32-14h-6v-4h6v4Zm0,8h-6v-4h6v4Zm0,8h-6v-4h6v4Zm0,8h-6v-4h6v4Z" transform="translate(-480 -672)"/>
+</svg>
+
